@@ -1,4 +1,4 @@
-<h2 align="center"> JuneWind / 六月的风 </h2>
+<h2 align="center"> JuneWind / 六月的风 (Liù yuè de fēng)  </h2>
 
 <p align="center">
   <samp>
@@ -22,16 +22,16 @@
 
 <!-- [![Anurag's GitHub stats](https://junewind-github-readme-stats.api.junewind.top/api?username=luckerlin)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 <img align="left" alt="JuneWind's GitHub Stats" src="https://luckerlin-github-readme-stats.api.junewind.top/api?username=luckerlin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 
 ## 📫 How to reach me ...
-Email: Luckerlin@foxmail.com
-bilibili Channel: <a href="https://space.bilibili.com/593931339">Click Here</a>
-Homepage: https://www.junewind.top/
-Blog: https://blog.junewind.top/
+- Email: Luckerlin@foxmail.com
+- bilibili Channel: <a href="https://space.bilibili.com/593931339">Click Here</a>
+- Homepage: https://www.junewind.top/
+- Blog: https://blog.junewind.top/
 
 <!---
 luckerlin/luckerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
