@@ -12,9 +12,8 @@
   </samp>
 </p>
 
-## Self-introduction
-
-- 👋 Hi, I’m @luckerlin , a Senior High School Student
+## 👋 Self-introduction
+<strong>Hi, I’m @luckerlin , a Senior High School Student in China</strong>
 - 👀 I’m interested in coding & solving Rubik's cube
 - 🌱 I’m currently learning `Python` `C` `C++`  <del>`java`</del> (learning everything 🤣)
 - 💞️ I’m looking to collaborate with other content creators
@@ -26,7 +25,6 @@
 ## :zap: GitHub Stats
 
 <img align="left" alt="JuneWind's GitHub Stats" src="https://junewind-github-readme-stats.api.junewind.top/api?username=luckerlin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 
 
 ## 📫 How to reach me ...
