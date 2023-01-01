@@ -5,7 +5,8 @@
     <a href="https://www.junewind.top/">Homepage</a> ∙
     <a href="https://blog.junewind.top/">Blog</a> ∙
 <!--     <a href="https://note.tonycrane.cc/">Note</a> ∙ -->
-    <a href="https://space.bilibili.com/593931339">bilibili</a> ∙ 
+    <a href="https://space.bilibili.com/593931339">bilibili</a>
+<!--     ∙  -->
 <!--     <a href="https://t.me/TonyCraneSky">channel</a> ∙
     <a href="https://t.me/Tony_Crane">telegram</a> -->
   </samp>
@@ -23,7 +24,7 @@
 <!-- [![Anurag's GitHub stats](https://junewind-github-readme-stats.api.junewind.top/api?username=luckerlin)](https://github.com/anuraghazra/github-readme-stats) -->
 
 :zap: GitHub Stats
-<img align="left" alt="JuneWind's GitHub Stats" src="https://luckerlin-github-readme-stats.api.junewind.top/api?username=luckerlin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="JuneWind's GitHub Stats" src="https://junewind-github-readme-stats.api.junewind.top/api?username=luckerlin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 
