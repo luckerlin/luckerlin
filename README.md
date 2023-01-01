@@ -1,16 +1,37 @@
+<h2 align="center"> JuneWind / 六月的风 </h2>
+
+<p align="center">
+  <samp>
+    <a href="https://www.junewind.top/">Homepage</a> ∙
+    <a href="https://blog.junewind.top/">Blog</a> ∙
+<!--     <a href="https://note.tonycrane.cc/">Note</a> ∙ -->
+    <a href="https://space.bilibili.com/593931339">bilibili</a> ∙ 
+<!--     <a href="https://t.me/TonyCraneSky">channel</a> ∙
+    <a href="https://t.me/Tony_Crane">telegram</a> -->
+  </samp>
+</p>
+
+## Self-introduction
+
+- 👋 Hi, I’m @luckerlin , a Senior High School Student
+- 👀 I’m interested in coding & solving Rubik's cube
+- 🌱 I’m currently learning `Python` `C` `C++`  <del>`java`</del> (learning everything 🤣)
+- 💞️ I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Learn more about server building & C/C++ & CFOP Method(Rubik's cube)
 
 
-- 👋 Hi, I’m @luckerlin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- [![Anurag's GitHub stats](https://junewind-github-readme-stats.api.junewind.top/api?username=luckerlin)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="JuneWind's GitHub Stats" src="https://luckerlin-github-readme-stats.api.junewind.top/api?username=luckerlin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckerlin)](https://github.com/anuraghazra/github-readme-stats)
-
-
+## 📫 How to reach me ...
+Email: Luckerlin@foxmail.com
+bilibili Channel: <a href="https://space.bilibili.com/593931339">Click Here</a>
+Homepage: https://www.junewind.top/
+Blog: https://blog.junewind.top/
 
 <!---
 luckerlin/luckerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
