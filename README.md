@@ -28,7 +28,7 @@
 
 
 ## 📫 How to reach me ...
-- Email: Luckerlin@foxmail.com
+- Email: me@junewind.top
 - bilibili Channel: <a href="https://space.bilibili.com/593931339">Click Here</a>
 - Homepage: https://www.junewind.top/
 - Blog: https://blog.junewind.top/
