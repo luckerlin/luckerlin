@@ -4,16 +4,16 @@
   <samp>
     <a href="https://www.junewind.top/">Homepage</a> ∙
     <a href="https://blog.junewind.top/">Blog</a> ∙
-<!--     <a href="https://note.tonycrane.cc/">Note</a> ∙ -->
-    <a href="https://space.bilibili.com/593931339">bilibili</a>
+<!--     <a href="https://note. .cc/">Note</a> ∙ -->
+    <a href="https://space.bilibili.com/3493123875408616">bilibili Channel</a>
 <!--     ∙  -->
-<!--     <a href="https://t.me/TonyCraneSky">channel</a> ∙
-    <a href="https://t.me/Tony_Crane">telegram</a> -->
+    <a href="https://t.me/JuneWind">Telegram Channel</a>
+<!--     ∙ <a href="https://t.me/Tony_Crane">telegram</a> -->
   </samp>
 </p>
 
 ## 👋 Self-introduction
-<strong>Hi, I’m @luckerlin , a Senior High School Student in China</strong>
+<strong>Hi, I’m JuneWind(@luckerlin) , a Senior High School Student in China</strong>
 - 👀 I’m interested in coding & solving Rubik's cube
 - 🌱 I’m currently learning `Python` `C` `C++`  <del>`java`</del> (learning everything 🤣)
 - 💞️ I’m looking to collaborate with other content creators
@@ -32,7 +32,8 @@
 - bilibili Channel: <a href="https://space.bilibili.com/593931339">Click Here</a>
 - Homepage: https://www.junewind.top/
 - Blog: https://blog.junewind.top/
-
+- Telegram Channel: https://t.me/JuneWind
+    
 <!---
 luckerlin/luckerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
