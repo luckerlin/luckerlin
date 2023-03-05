@@ -5,8 +5,7 @@
     <a href="https://www.junewind.top/">Homepage</a> ∙
     <a href="https://blog.junewind.top/">Blog</a> ∙
 <!--     <a href="https://note. .cc/">Note</a> ∙ -->
-    <a href="https://space.bilibili.com/3493123875408616">bilibili Channel</a>
-<!--     ∙  -->
+    <a href="https://space.bilibili.com/3493123875408616">bilibili Channel</a> ∙ 
     <a href="https://t.me/JuneWind">Telegram Channel</a>
 <!--     ∙ <a href="https://t.me/Tony_Crane">telegram</a> -->
   </samp>
@@ -29,7 +28,7 @@
 
 ## 📫 How to reach me ...
 - Email: me@junewind.top
-- bilibili Channel: <a href="https://space.bilibili.com/593931339">Click Here</a>
+- bilibili Channel: <a href="https://space.bilibili.com/3493123875408616">Click Here</a>
 - Homepage: https://www.junewind.top/
 - Blog: https://blog.junewind.top/
 - Telegram Channel: https://t.me/JuneWind
