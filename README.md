@@ -14,7 +14,7 @@
 ## 👋 Self-introduction
 <strong>Hi, I’m JuneWind(@luckerlin) , a Senior High School Student in China</strong>
 - 👀 I’m interested in coding & solving Rubik's cube
-- 🌱 I’m currently learning `Python` `C` `C++`  <del>`java`</del> (learning everything 🤣)
+- 🌱 I’m currently learning `Python` `C` <del>`C++`</del> <del>`JavaScript`</del> <del>`java`</del> (learning everything 🤣)
 - 💞️ I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about server building & C/C++ & CFOP Method(Rubik's cube)
 
@@ -27,6 +27,9 @@
 
 
 ## 📫 How to reach me ...
+
+<p style="color: #ff0000;">ATTENTION: This email address(me@junewind.top) is not available now!You can touch me use luckerlin@foxmail.com instead.</p>
+
 - Email: me@junewind.top
 - bilibili Channel: <a href="https://space.bilibili.com/3493123875408616">Click Here</a>
 - Homepage: https://www.junewind.top/
