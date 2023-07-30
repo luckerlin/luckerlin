@@ -28,7 +28,7 @@
 
 ## 📫 How to reach me ...
 
-<p style="color: #ff0000;">ATTENTION: This email address(me@junewind.top) is not available now!You can touch me use luckerlin@foxmail.com instead.</p>
+<p style="color: #ff0000;">ATTENTION: This email address(me@junewind.top) is not available now!You can touch me with luckerlin@foxmail.com instead.</p>
 
 - Email: me@junewind.top
 - bilibili Channel: <a href="https://space.bilibili.com/3493123875408616">Click Here</a>
