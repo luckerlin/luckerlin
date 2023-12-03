@@ -4,7 +4,7 @@
   <samp>
     <a href="https://www.junewind.top/">Homepage</a> ∙
     <a href="https://blog.junewind.top/">Blog</a> ∙
-<!--     <a href="https://note. .cc/">Note</a> ∙ -->
+    <a href="https://note.junewind.top/">Notebook(building)</a> ∙
     <a href="https://space.bilibili.com/3493123875408616">bilibili Channel</a> ∙ 
     <a href="https://t.me/JuneWind">Telegram Channel</a>
 <!--     ∙ <a href="https://t.me/Tony_Crane">telegram</a> -->
@@ -14,7 +14,7 @@
 ## 👋 Self-introduction
 <strong>Hi, I’m JuneWind(@luckerlin) , a Senior High School Student in China</strong>
 - 👀 I’m interested in coding & solving Rubik's cube
-- 🌱 I’m currently learning `Python` `C` <del>`C++`</del> <del>`JavaScript`</del> <del>`java`</del> (learning everything 🤣)
+- 🌱 I’m currently learning `Python` `C++` <del>`C`</del> <del>`JavaScript`</del> <del>`java`</del> (learning everything 🤣)
 - 💞️ I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about server building & C/C++ & CFOP Method(Rubik's cube)
 
