@@ -1,5 +1,6 @@
 <h2 align="center"> JuneWind / 六月的风 </h2>
 
+<!--
 <p align="center">
   <samp>
     <a href="https://www.junewind.top/">Homepage</a> ∙
@@ -10,11 +11,18 @@
 <!--     ∙ <a href="https://t.me/Tony_Crane">telegram</a> -->
   </samp>
 </p>
+--->
+
+<p align="center">
+  [![GitHub Followers](https://img.shields.io/github/followers/luckerlin?label=Follow%20Me&style=social)](https://github.com/luckerlin)
+  [![Blog](https://img.shields.io/badge/Personal_Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://yourblog.com)
+</p>
+
 
 ## 👋 Self-introduction
 <strong>Hi, I’m JuneWind(@luckerlin) , a Senior High School Student in China</strong>
-- 👀 I’m interested in coding & solving Rubik's cube
-- 🌱 I’m currently learning `Python` `C++` <del>`C`</del> <del>`JavaScript`</del> <del>`java`</del> (learning everything 🤣)
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning `Python` `C++` <del>`C`</del> <del>`JavaScript`</del>  (learning everything 🤣)
 - 💞️ I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about server building & C/C++ & CFOP Method(Rubik's cube)
 
@@ -43,10 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hello, I'm [Your Name] 
 
-[![GitHub Followers](https://img.shields.io/github/followers/luckerlin?label=Follow%20Me&style=social)](https://github.com/luckerlin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Blog](https://img.shields.io/badge/Personal_Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://yourblog.com)
+
 
 **📍** [Location] | **💼** [Current Position] | **🎓** [Education]
 
