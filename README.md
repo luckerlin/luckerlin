@@ -1,30 +1,61 @@
-<h2 align="center"> JuneWind / 六月的风 </h2>
 
 <!--
+<h2 align="center"> JuneWind / 六月的风 </h2>
 <p align="center">
   <samp>
     <a href="https://www.junewind.top/">Homepage</a> ∙
     <a href="https://blog.junewind.top/">Blog</a> ∙
     <a href="https://note.junewind.top/">Notebook(building)</a> ∙
     <a href="https://space.bilibili.com/3493123875408616">bilibili Channel</a> ∙ 
-    <a href="https://t.me/JuneWind">Telegram Channel</a>
-<!--     ∙ <a href="https://t.me/Tony_Crane">telegram</a> -->
+    <a href="https://t.me/JuneWind">Telegram Channel</a> ∙ 
+    <a href="https://t.me/Tony_Crane">telegram</a>
   </samp>
 </p>
 --->
 
-<p align="center">
-  [![GitHub Followers](https://img.shields.io/github/followers/luckerlin?label=Follow%20Me&style=social)](https://github.com/luckerlin)
-  [![Blog](https://img.shields.io/badge/Personal_Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://yourblog.com)
-</p>
+
 
 
 ## 👋 Self-introduction
 <strong>Hi, I’m JuneWind(@luckerlin) , a Senior High School Student in China</strong>
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning `Python` `C++` <del>`C`</del> <del>`JavaScript`</del>  (learning everything 🤣)
-- 💞️ I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about server building & C/C++ & CFOP Method(Rubik's cube)
+
+<a href="https://github.com/luckerlin"><img src="https://img.shields.io/github/followers/luckerlin?label=Follow%20Me&amp;style=social" alt="GitHub Followers"></a>
+<a href="https://yourblog.com"><img src="https://img.shields.io/badge/Personal_Blog-FF5722?style=flat&amp;logo=blogger&amp;logoColor=white" alt="Blog"></a>
+
+<!-- <a href="https://github.com/luckerlin"><img src="https://komarev.com/ghpvc/?username=luckerlin&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Visitors"></a>
+<a href="https://github.com/luckerlin"><img src="https://img.shields.io/github/stars/luckerlin?label=Total%20Stars&amp;style=flat" alt="GitHub Stars"></a> --->
+
+<ul>
+  <li>👀 I’m interested in coding.</li>
+  <li>🌱 I’m currently learning <code>Python</code> <code>C++</code> <del><code>C</code></del> <del><code>JavaScript</code></del>  (learning everything 🤣)</li>
+  <li>💞️ I’m looking to collaborate with other content creators</li>
+  <li>🥅 2025 Goals: Prepare for <i>NHEEE</i></li>
+</ul>
+
+
+
+## 🛠️ Tech Stack
+
+***Languages:***  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+***Frameworks:***  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+***Tools:***  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+
+
+
+
+
+
+
 
 
 <!-- [![Anurag's GitHub stats](https://junewind-github-readme-stats.api.junewind.top/api?username=luckerlin)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -49,29 +80,13 @@ luckerlin/luckerlin is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- 
 # 👋 Hello, I'm [Your Name] 
 
 
 
 **📍** [Location] | **💼** [Current Position] | **🎓** [Education]
 
-[![Visitors](https://komarev.com/ghpvc/?username=luckerlin&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/luckerlin)
-[![GitHub Stars](https://img.shields.io/github/stars/luckerlin?label=Total%20Stars&style=flat)](https://github.com/luckerlin)
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Frameworks:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -103,6 +118,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Learning: [New Technology]
 - 👯 Looking to collaborate on: [Type of Projects]
 - 🤔 Exploring: [Technical Interest]
-
+--->
 
 
