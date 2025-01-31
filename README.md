@@ -1,4 +1,4 @@
-<h2 align="center"> JuneWind / 六月的风 (Liù yuè de fēng)  </h2>
+<h2 align="center"> JuneWind / 六月的风 </h2>
 
 <p align="center">
   <samp>
@@ -43,15 +43,15 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hello, I'm [Your Name] 
 
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/yourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/luckerlin?label=Follow%20Me&style=social)](https://github.com/luckerlin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Blog](https://img.shields.io/badge/Personal_Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://yourblog.com)
 
 **📍** [Location] | **💼** [Current Position] | **🎓** [Education]
 
-[![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yourusername)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=flat)](https://github.com/yourusername)
+[![Visitors](https://komarev.com/ghpvc/?username=luckerlin&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/luckerlin)
+[![GitHub Stars](https://img.shields.io/github/stars/luckerlin?label=Total%20Stars&style=flat)](https://github.com/luckerlin)
 
 ## 🛠️ Tech Stack
 
@@ -70,21 +70,21 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [Project Name 1](https://github.com/luckerlin/project1)
 📝 Short description (40-60 characters)  
-![Stars](https://img.shields.io/github/stars/yourusername/project1?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/project1?color=blue&style=flat)
+![Stars](https://img.shields.io/github/stars/luckerlin/project1?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/luckerlin/project1?color=blue&style=flat)
 
-### [Project Name 2](https://github.com/yourusername/project2)
+### [Project Name 2](https://github.com/luckerlin/project2)
 📝 Short description (40-60 characters)  
-![Stars](https://img.shields.io/github/stars/yourusername/project2?style=flat)
-![License](https://img.shields.io/github/license/yourusername/project2?style=flat)
+![Stars](https://img.shields.io/github/stars/luckerlin/project2?style=flat)
+![License](https://img.shields.io/github/license/luckerlin/project2?style=flat)
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luckerlin&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckerlin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect
 
