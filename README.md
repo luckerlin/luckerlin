@@ -26,8 +26,8 @@
 <a href="https://github.com/luckerlin"><img src="https://img.shields.io/github/stars/luckerlin?label=Total%20Stars&amp;style=flat" alt="GitHub Stars"></a> --->
 
 <ul>
-  <li>👀 I’m interested in coding.</li>
-  <li>🌱 I’m currently learning <code>Python</code> <code>C++</code> <del><code>C</code></del> <del><code>JavaScript</code></del>  (learning everything 🤣)</li>
+  <li>👀 I’m interested in coding & studying.</li>
+  <!-- <li>🌱 I’m currently learning <code>Python</code> <code>C++</code> <del><code>C</code></del> <del><code>JavaScript</code></del>  (learning everything 🤣)</li> --->
   <li>💞️ I’m looking to collaborate with other content creators</li>
   <li>🥅 2025 Goals: Prepare for <i>NHEEE</i></li>
 </ul>
@@ -38,24 +38,19 @@
 
 ***Languages:***  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ***Frameworks:***  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
 ***Tools:***  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-
-
-
-
-
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Xshell](https://img.shields.io/badge/Xshell-0096D6?style=flat&logo=xshell&logoColor=white)
 
 
 <!-- [![Anurag's GitHub stats](https://junewind-github-readme-stats.api.junewind.top/api?username=luckerlin)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -67,14 +62,16 @@
 
 ## 📫 How to reach me ...
 
-<p style="color: #ff0000;">ATTENTION: This email address(me@junewind.top) is not available now!You can touch me with luckerlin@foxmail.com instead.</p>
+<!-- <p style="color: #ff0000;">ATTENTION: This email address(me@junewind.top) is not available now!You can touch me with luckerlin@foxmail.com instead.</p> --->
 
-- Email: me@junewind.top
-- bilibili Channel: <a href="https://space.bilibili.com/3493123875408616">Click Here</a>
+- Email: [luckerlin@foxmail.com](mailto:luckerlin@foxmail.com)
+- bilibili Channel: <a href="https://space.bilibili.com/3493123875408616">@六月的风-official</a>
+- Telegram Channel: [@JuneWind](https://t.me/JuneWind)
 - Homepage: https://www.junewind.top/
-- Blog: https://blog.junewind.top/
-- Telegram Channel: https://t.me/JuneWind
-    
+
+
+
+
 <!---
 luckerlin/luckerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -107,11 +104,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckerlin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
+- Blog: https://blog.junewind.top/
 ## 🎯 Currently
 
 - 🔭 Working on: [Project Name]
