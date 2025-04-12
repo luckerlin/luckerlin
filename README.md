@@ -42,10 +42,12 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+<!-- 
 ***Frameworks:***  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-
+ -->
+ 
 ***Tools:***  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -65,9 +67,10 @@
 <!-- <p style="color: #ff0000;">ATTENTION: This email address(me@junewind.top) is not available now!You can touch me with luckerlin@foxmail.com instead.</p> --->
 
 - Email: [luckerlin@foxmail.com](mailto:luckerlin@foxmail.com)
-- bilibili Channel: <a href="https://space.bilibili.com/3493123875408616">@六月的风-official</a>
-- Telegram Channel: [@JuneWind](https://t.me/JuneWind)
+- bilibili Channel: <a href="https://space.bilibili.com/3493123875408616">@六月的风__</a>
 - Homepage: https://www.junewind.top/
+<!-- - Telegram Channel: [@JuneWind](https://t.me/JuneWind) --->
+
 
 
 
